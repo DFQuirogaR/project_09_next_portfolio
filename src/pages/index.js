@@ -1,6 +1,4 @@
-import { Inter } from "next/font/google";
 import Layout from "@/components/Layout";
-
 import { skills, experiences, projects } from "../pages/profile";
 import Link from "next/link";
 
