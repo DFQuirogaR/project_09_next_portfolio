@@ -40,7 +40,7 @@ const Layout = ({ children, footer = true }) => {
             {footer && (
                 <footer className='bg-dark text-light text-center'>
                     <div className='continer p-4'>
-                        <h1>&copy: Diego Fernando Quiroga Rivera Portfolio</h1>
+                        <h1>&copy; Diego Fernando Quiroga Rivera Portfolio</h1>
                         <p>2024 - {new Date().getFullYear()}</p>
                         <p>All rights Reserved.</p>
                     </div>
